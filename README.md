@@ -1,3 +1,5 @@
+Primero lo he clonado y luego lo he modificado hecho un commit y un push.
+
 # prueba3
 Juanma@DESKTOP-GIIIDH8 MINGW64 ~/Desktop/CarpetaCasa
 $ git clone https://github.com/juan97perez/prueba3.git
@@ -7,7 +9,8 @@ remote: Counting objects: 100% (3/3), done.
 remote: Total 3 (delta 0), reused 3 (delta 0), pack-reused 0
 Receiving objects: 100% (3/3), done.
 
-Primero lo he clonado y luego lo he modificado hecho un commit y un push.
+
+
 
 Juanma@DESKTOP-GIIIDH8 MINGW64 ~/Desktop/CarpetaCasa/prueba3 (master)
 $ git init
